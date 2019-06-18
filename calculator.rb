@@ -4,7 +4,7 @@ second_number = 8
 
 sum = first_number + second_number
 
-difference = 10 - 8
+difference = first_number - second_number
 
 product = first_number * second_number
 
